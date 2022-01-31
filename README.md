@@ -1,13 +1,22 @@
 # Stanford-CS224U-Natural-Language-Understanding-Spring-2021
 Stanford-CS224U-Natural-Language-Understanding-Spring-2021
 
+-------
 
+https://web.stanford.edu/class/cs224u/
+
+# Course info
+Covid-19 😷: CS224u will be a fully online course for the entire Spring 2021 quarter. 
+
+The core course content will be delivered via screencasts created offline and posted on Panopto. 
+
+Our scheduled class meetings will be optional events devoted to free-form discussion and group work on assignments and projects with support from the teaching team.
+
+-------
+-------
 
 stanfordonline
 
-
-
--------
 
 
 1
@@ -452,5 +461,5 @@ Conclusion
 
 
 
-
+-------
 -------
