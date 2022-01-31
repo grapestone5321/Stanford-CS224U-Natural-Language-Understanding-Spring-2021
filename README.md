@@ -12,6 +12,9 @@ The core course content will be delivered via screencasts created offline and po
 
 Our scheduled class meetings will be optional events devoted to free-form discussion and group work on assignments and projects with support from the teaching team.
 
+### GitHub
+https://github.com/cgpotts/cs224u/
+
 -------
 -------
 
