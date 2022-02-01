@@ -106,7 +106,7 @@ https://web.stanford.edu/class/cs224u/slides/cs224u-2021-vsm-part7-handout.pdf
 
 -------
 
-# Part3
+# Part3  Supervised sentiment analysis
 
 ### 11 13:57
 
