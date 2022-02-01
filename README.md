@@ -23,7 +23,7 @@ stanfordonline
 
 -------
 
-# Part1  Introduction and course overview
+# Part1:  Introduction and course overview
 
 ### 1 3:02
 
@@ -39,7 +39,7 @@ https://web.stanford.edu/class/cs224u/slides/cs224u-2021-intro-handout.pdf
 
 -------
 
-# Part2
+# Part2:  Distributed word representations
 
 ### 3 10:15
 
@@ -106,7 +106,7 @@ https://web.stanford.edu/class/cs224u/slides/cs224u-2021-vsm-part7-handout.pdf
 
 -------
 
-# Part3  Supervised sentiment analysis
+# Part3:  Supervised sentiment analysis
 
 ### 11 13:57
 
@@ -177,7 +177,7 @@ https://web.stanford.edu/class/cs224u/slides/cs224u-2021-sentiment-part8-handout
 
 -------
 
-# Part4
+# Part4:  Contextual word representations
 
 
 ### 20 17:20
@@ -231,7 +231,7 @@ https://web.stanford.edu/class/cs224u/slides/cs224u-2021-contextualreps-part6-ha
 
 -------
 
-# Part5
+# Part5:  Grounded language understanding
 
 ### 26 8:42
 
@@ -283,7 +283,7 @@ https://web.stanford.edu/class/cs224u/slides/cs224u-2021-grounding-part6-handout
 
 -------
 
-# Part6
+# Part6: Natural Language Inference
 
 ### 33 11:07
 
@@ -368,7 +368,7 @@ https://web.stanford.edu/class/cs224u/slides/CS224U-IR-part-5.pdf
 
 -------
 
-# Part7
+# Part7:  Relation extraction
 
 ### 43 13:06
 
@@ -417,7 +417,7 @@ https://web.stanford.edu/class/cs224u/slides/cs224u-2021-relext-part6.pdf
 -------
 
 
-# Part8
+# Part8:  Methods and metrics
 
 
 
@@ -457,7 +457,7 @@ https://web.stanford.edu/class/cs224u/slides/cs224u-2021-analysis-part5-handout.
 
 -------
 
-# Part9
+# Part9:  Presenting your research
 
 ### 54 4:37
 
