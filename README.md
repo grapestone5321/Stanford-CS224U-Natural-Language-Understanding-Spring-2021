@@ -23,7 +23,7 @@ stanfordonline
 
 -------
 
-# Part1
+# Part1  Introduction and course overview
 
 ### 1 3:02
 
