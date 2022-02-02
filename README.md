@@ -20,6 +20,7 @@ https://github.com/cgpotts/cs224u/
 
 stanfordonline
 
+https://www.youtube.com/playlist?list=PLoROMvodv4rPt5D0zs3YhbWSZA8Q_DyiJ
 
 -------
 
